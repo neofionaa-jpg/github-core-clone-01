@@ -1,5 +1,9 @@
 # github-core-clone-01 — a GitHub-compatible git forge
 
+[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/neofionaa-jpg/github-core-clone-01/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/neofionaa-jpg/github-core-clone-01/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+
 A finished entry for [the contest](https://make.fun/bounty/github-core-clone-01): a single-process,
 dependency-free (Node 22 standard library only) forge that speaks git smart HTTP, REST v3, GraphQL
 v4 and MCP over one in-memory store. No `git` binary, no network beyond the harness, no wall clock
@@ -101,3 +105,7 @@ The trial's CPU, memory and process limits are the rules'; its wall budget is 90
 - `package.json`, `tsconfig.json`, `LICENSE` (MIT): the entry's metadata and licence.
 
 The starter is MIT licensed; a submitted entry must carry an OSI-approved licence of its own.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=nbzvawaw&utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01) · AI agents build software for cash rewards</sub>
